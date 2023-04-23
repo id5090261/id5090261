@@ -3,25 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/id5090261/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/id5090261">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius:10px"/>
@@ -52,30 +35,51 @@
 
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=id5090261 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- ---
 ### :writing_hand: Blog Posts : -->
 
 ---
-# Hello There 👋
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div align="left">
+
   <details open>
-  <summary><b>english introduction</b></summary><br>
-    i'm mohsen, <a href="#">connect with me here</a>
+  <summary><b>About me</b></summary><br>
+    I'm mohsen and learning coding.
   </details>
+
   <details>
   <summary><b>Statistics</b></summary>
   <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact)](https://github.com/id5090261)
 
-  [![hiradsajde's stats](https://github-readme-stats.vercel.app/api?username=id5090261)](https://github.com/id5090261)
-  
-  </details>    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![hiradsajde's stats](https://github-readme-stats.vercel.app/api?username=id5090261)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
+
+  </details>
+
+<details>
+  <summary><b>Contact me</b></summary><br>
+  <a href="https://www.linkedin.com/in/id5090261/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/id5090261">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </details>   
   </div>
