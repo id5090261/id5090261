@@ -16,6 +16,8 @@ I'm Mohsen and learning coding.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40" fill="#ffffff"/>&nbsp;
@@ -25,8 +27,19 @@ I'm Mohsen and learning coding.
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 </details>
 
@@ -56,7 +69,7 @@ I'm Mohsen and learning coding.
 <a href="https://instagram.com/id5090261">
 <img src="https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-</details> 
+</details>
 
 <details open>
 <summary><b>Contact me</b></summary><br>
