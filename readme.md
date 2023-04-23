@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
 </h1>
 
----
-
 <div align="left">
 
 <details open>
@@ -31,6 +29,16 @@ I'm mohsen and learning coding.
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark)
 
 </details>
+
+<details>
+<summary><b>Find me</b></summary><br>
+<a href="https://www.linkedin.com/in/id5090261/">
+<img src="https://img.shields.io/badge/in/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/id5090261">
+<img src="https://img.shields.io/badge/@id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</details> 
 
 <details>
 <summary><b>Contact me</b></summary><br>
