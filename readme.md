@@ -10,7 +10,7 @@
 I'm mohsen and learning coding.
 </details>
 
-<details>
+<details open>
 <summary><b>Skills</b></summary><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@ I'm mohsen and learning coding.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Find me</b></summary><br>
 <a href="https://www.linkedin.com/in/id5090261/">
 <img src="https://img.shields.io/badge/in/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -46,7 +46,7 @@ I'm mohsen and learning coding.
 </a>
 </details> 
 
-<details>
+<details open>
 <summary><b>Contact me</b></summary><br>
 <a href="mailto:id5090261@gmail.com">
 <img src="https://img.shields.io/badge/id5090261@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
