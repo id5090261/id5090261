@@ -42,11 +42,8 @@ I'm mohsen and learning coding.
 
 <details>
 <summary><b>Contact me</b></summary><br>
-<a href="https://www.linkedin.com/in/id5090261/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<a href="mailto:id5090261@gmail.com">
+<img src="https://img.shields.io/badge/id5090261@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://twitter.com/id5090261">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
