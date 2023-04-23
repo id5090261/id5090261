@@ -60,13 +60,13 @@
   <summary><b>Statistics</b></summary>
   <br>
 
+<img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![hiradsajde's stats](https://github-readme-stats.vercel.app/api?username=id5090261)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
+![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=transparent)(https://github.com/anuraghazra/github-readme-stats)
 
   </details>
 
