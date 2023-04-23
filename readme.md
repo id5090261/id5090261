@@ -43,10 +43,10 @@ I'm mohsen and learning coding.
 <details>
 <summary><b>Contact me</b></summary><br>
 <a href="mailto:id5090261@gmail.com">
-<img src="https://img.shields.io/badge/id5090261@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/id5090261@gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
-<a href="https://twitter.com/id5090261">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<a href="https://t.me/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 </details>   
 </div>
