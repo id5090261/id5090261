@@ -66,7 +66,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=transparent)(https://github.com/anuraghazra/github-readme-stats)
+![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark)
 
   </details>
 
