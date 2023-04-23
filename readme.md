@@ -38,6 +38,12 @@ I'm mohsen and learning coding.
 <a href="https://twitter.com/id5090261">
 <img src="https://img.shields.io/badge/@id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+<a href="https://facebook.com/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://instagram.com/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 </details> 
 
 <details>
