@@ -36,7 +36,9 @@ ___
 ### - I know
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
-
+![css3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
