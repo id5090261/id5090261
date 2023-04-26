@@ -31,7 +31,7 @@ ___
 <a href="https://t.me/id5090261">
 <img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-[![discord](https://img.shields.io/badge/-id5090261%232815-%235865F2?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
+[![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
   
 ___
 ### - I know
