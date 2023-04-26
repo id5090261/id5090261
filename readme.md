@@ -5,13 +5,12 @@
 
 <div align="left">
 
-<details open>
-<summary><b>About me</b></summary><br>
+___
+### Me
 I'm Mohsen and learning coding.
-</details>
 
-<details open>
-<summary><b>Skills</b></summary><br>
+___
+### I know
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -57,8 +56,8 @@ I'm Mohsen and learning coding.
 
 </details>
 
-<details open>
-<summary><b>Reach me</b></summary><br>
+___
+### Reach me
 <a href="mailto:id5090261@gmail.com">
 <img src="https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
@@ -77,4 +76,3 @@ I'm Mohsen and learning coding.
 <a href="https://t.me/id5090261">
 <img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-</details>
