@@ -41,6 +41,8 @@ ___
 ![windows](https://img.shields.io/badge/Windows-%230078D6?style=flat&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 ![centos](https://img.shields.io/badge/Centos-%23262577?style=flat&logo=centos&logoColor=white)
+![ios](https://img.shields.io/badge/iOS-%23000000?style=flat&logo=ios&logoColor=white)
+![android](https://img.shields.io/badge/Android-%233DDC84?style=flat&logo=android&logoColor=white)
 <br>
 ![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 <br>
