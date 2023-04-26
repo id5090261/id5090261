@@ -42,8 +42,8 @@ ___
 ![php](https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+![git](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white)
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40"/>&nbsp;
