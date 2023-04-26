@@ -6,13 +6,37 @@
 <div align="left">
 
 
-### Me
+### - Me
 I'm Mohsen and learning coding.
 
 ___
-### I know
+### - Reach me
+<a href="mailto:id5090261@gmail.com">
+<img src="https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/id5090261/">
+<img src="https://img.shields.io/badge/in/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/id5090261">
+<img src="https://img.shields.io/badge/@id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://facebook.com/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://instagram.com/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://t.me/id5090261">
+<img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+___
+### - I know
 ![html5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+![css3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
@@ -40,8 +64,8 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 
-</details>
-
+ ___ 
+ 
 <details>
 <summary><b>Status</b></summary>
 <br>
@@ -56,23 +80,4 @@ ___
 
 </details>
 
-___
-### Reach me
-<a href="mailto:id5090261@gmail.com">
-<img src="https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/id5090261/">
-<img src="https://img.shields.io/badge/in/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://twitter.com/id5090261">
-<img src="https://img.shields.io/badge/@id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-<a href="https://facebook.com/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-<a href="https://instagram.com/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://t.me/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
+
