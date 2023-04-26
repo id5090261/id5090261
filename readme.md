@@ -8,7 +8,8 @@ hey there
 ### - Me
   
 I'm Mohsen and learning coding.
-__
+
+  ___
   
 ### - Reach me
 
@@ -20,8 +21,8 @@ __
 [![telegram](https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/id5090261)](https://t.me/id5090261)
 [![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
   
-__
-
+___
+  
 ### - I know
 
 ![html5](https://img.shields.io/badge/Html5-%23E34F26?style=flat&logo=html5&logoColor=white)
@@ -45,9 +46,9 @@ __
 <br>
 ![nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
 ![apache](https://img.shields.io/badge/Apache-%23D22128?style=flat&logo=apache&logoColor=white)
-
-__
- 
+  
+  ___
+  
 <details>
 <summary><b>Status</b></summary>
 <br>
