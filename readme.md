@@ -45,14 +45,12 @@ ___
 ![git](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white)
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Woocommerce" alt="Woocommerce" width="40" height="40"/>&nbsp;
+![wordpress](https://img.shields.io/badge/wordpress-%2321759B?style=flat&logo=wordpress&logoColor=white)
+![woocommerce](https://img.shields.io/badge/woocommerce-%2396588A?style=flat&logo=woocommerce&logoColor=white)
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="Centos" alt="Centos" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Ios" alt="Ios" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+![windows](https://img.shields.io/badge/windows-%230078D6?style=flat&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 <br>
