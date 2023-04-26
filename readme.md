@@ -1,16 +1,15 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
+hey there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
 </h1>
 
 <div align="left">
 
-
 ### - Me
   
 I'm Mohsen and learning coding.
-
-___
+__
+  
 ### - Reach me
 
 [![gmail](https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:id5090261@gmail.com)](mailto:id5090261@gmail.com)
@@ -21,7 +20,8 @@ ___
 [![telegram](https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/id5090261)](https://t.me/id5090261)
 [![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
   
-___
+__
+
 ### - I know
 
 ![html5](https://img.shields.io/badge/Html5-%23E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,7 +46,7 @@ ___
 ![nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
 ![apache](https://img.shields.io/badge/Apache-%23D22128?style=flat&logo=apache&logoColor=white)
 
- ___ 
+__
  
 <details>
 <summary><b>Status</b></summary>
