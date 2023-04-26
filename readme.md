@@ -13,26 +13,13 @@ I'm Mohsen and learning coding.
 ___
 ### - Reach me
 
-<a href="mailto:id5090261@gmail.com">
-<img src="https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Mail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/id5090261/">
-<img src="https://img.shields.io/badge/in/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://twitter.com/id5090261">
-<img src="https://img.shields.io/badge/@id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-<a href="https://facebook.com/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-<a href="https://instagram.com/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://t.me/id5090261">
-<img src="https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-  
-[![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
+[![gmail](https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:id5090261@gmail.com)](mailto:id5090261@gmail.com)
+[![linkedin](https://img.shields.io/badge/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/id5090261)](https://www.linkedin.com/in/id5090261)
+[![twitter](https://img.shields.io/badge/id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/id5090261)](https://twitter.com/id5090261)
+[![facebook](https://img.shields.io/badge/id5090261-%231877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/id5090261)](https://facebook.com/id5090261)
+[![instagram](https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/id5090261)](https://instagram.com/id5090261)
+[![telegram](https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/id5090261)](https://t.me/id5090261)
+[![discord](https://img.shields.io/badge/id5090261-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
   
 ___
 ### - I know
