@@ -39,11 +39,8 @@ ___
 ![css3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+![php](https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
