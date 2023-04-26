@@ -46,6 +46,9 @@ ___
 <br>
 ![nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
 ![apache](https://img.shields.io/badge/Apache-%23D22128?style=flat&logo=apache&logoColor=white)
+<br>
+![laragon](https://img.shields.io/badge/Laragon-%230E83CD?style=flat&logo=laragon&logoColor=white)
+![xampp](https://img.shields.io/badge/Xampp-%23FB7A24?style=flat&logo=xampp&logoColor=white)
   
   ___
   
