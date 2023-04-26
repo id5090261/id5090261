@@ -52,15 +52,10 @@ ___
 ![ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
 ![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
+![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
 
  ___ 
  
