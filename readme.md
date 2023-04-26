@@ -35,27 +35,27 @@ ___
 ___
 ### - I know
 
-![html5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
-![php](https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
+![html5](https://img.shields.io/badge/Html5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/Css3-%231572B6?style=flat&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+![php](https://img.shields.io/badge/Php-%23777BB4?style=flat&logo=php&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 <br>
-![git](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white)
 <br>
-![wordpress](https://img.shields.io/badge/wordpress-%2321759B?style=flat&logo=wordpress&logoColor=white)
-![woocommerce](https://img.shields.io/badge/woocommerce-%2396588A?style=flat&logo=woocommerce&logoColor=white)
+![wordpress](https://img.shields.io/badge/Wordpress-%2321759B?style=flat&logo=wordpress&logoColor=white)
+![woocommerce](https://img.shields.io/badge/Woocommerce-%2396588A?style=flat&logo=woocommerce&logoColor=white)
 <br>
-![windows](https://img.shields.io/badge/windows-%230078D6?style=flat&logo=windows&logoColor=white)
-![ubuntu](https://img.shields.io/badge/ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
-![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-%230078D6?style=flat&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white)
+![centos](https://img.shields.io/badge/Centos-%23262577?style=flat&logo=centos&logoColor=white)
 <br>
 ![adobephotoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 <br>
-![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
-![centos](https://img.shields.io/badge/centos-%23262577?style=flat&logo=centos&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
+![apache](https://img.shields.io/badge/Apache-%23D22128?style=flat&logo=apache&logoColor=white)
 
  ___ 
  
