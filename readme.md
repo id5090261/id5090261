@@ -53,6 +53,8 @@ I'm Mohsen and learning coding.
 
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
+
 </details>
 
 <details open>
@@ -81,3 +83,4 @@ I'm Mohsen and learning coding.
 </a>
 </details>   
 </div>
+
