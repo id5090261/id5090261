@@ -20,6 +20,7 @@ I'm Mohsen and learning coding.
 [![instagram](https://img.shields.io/badge/id5090261-%23E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/id5090261)](https://instagram.com/id5090261)
 [![telegram](https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/id5090261)](https://t.me/id5090261)
 [![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
+[![patreon](https://img.shields.io/badge/id5090261-%23FF424D?style=flat&logo=patreon&logoColor=white&link=https://patreon.com/id5090261)](https://patreon.com/id5090261)  
   
 ___
   
