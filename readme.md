@@ -1,18 +1,12 @@
 <h1>
-hey there
+Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/> <img src="https://wakatime.com/badge/user/018cca65-8151-4db9-ae64-da1917792638.svg"> 
 </h1>
 
-<div align="left">
-
 ### - Me
-  
 I'm Mohsen and learning coding.
 
-  ___
-  
 ### - Reach me
-
 [![gmail](https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:id5090261@gmail.com)](mailto:id5090261@gmail.com)
 [![linkedin](https://img.shields.io/badge/id5090261-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/id5090261)](https://www.linkedin.com/in/id5090261)
 [![twitter](https://img.shields.io/badge/id5090261-%231DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/id5090261)](https://twitter.com/id5090261)
@@ -21,11 +15,8 @@ I'm Mohsen and learning coding.
 [![telegram](https://img.shields.io/badge/id5090261-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/id5090261)](https://t.me/id5090261)
 [![discord](https://img.shields.io/badge/id5090261%232815-%235865F2?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/551845456909565971)](https://discordapp.com/users/551845456909565971)
 [![patreon](https://img.shields.io/badge/id5090261-%23FF424D?style=flat&logo=patreon&logoColor=white&link=https://patreon.com/id5090261)](https://patreon.com/id5090261)  
-  
-___
-  
-### - I know
 
+### - I know
 ![html5](https://img.shields.io/badge/Html5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/Css3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white)
@@ -52,22 +43,20 @@ ___
 <br>
 ![laragon](https://img.shields.io/badge/Laragon-%230E83CD?style=flat&logo=laragon&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-%23FB7A24?style=flat&logo=xampp&logoColor=white)
-  
-  ___
-  
+ 
 <details>
 <summary><b>Status</b></summary>
 <br>
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 <img src="http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000">
 
 <img src="https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
 
-<figure><embed src="https://wakatime.com/share/@id5090261/627f23ec-c71d-491a-8ab8-944a2ad07ba6.svg"></embed></figure>
+<img src="https://wakatime.com/share/@id5090261/627f23ec-c71d-491a-8ab8-944a2ad07ba6.svg">
 
 </details>
 
