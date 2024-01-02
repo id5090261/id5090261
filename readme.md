@@ -1,6 +1,6 @@
 <h1>
 hey there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , <img src="https://komarev.com/ghpvc/?username=id5090261&style=flat-square&color=blue" alt=""/> <img src="https://wakatime.com/badge/user/018cca65-8151-4db9-ae64-da1917792638.svg"> 
 </h1>
 
 <div align="left">
@@ -59,19 +59,15 @@ ___
 <summary><b>Status</b></summary>
 <br>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=id5090261&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark&card_width=300" width=460 height=180>
+<img src="https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
 
-| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" />                                                                                                                                          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@id5090261"><img src="https://wakatime.com/share/@id5090261/waka_da7be946-f997-41b7-8f74-faccc1266ecb.svg" height="300px"></a> | <a href="https://wakatime.com/@id5090261"><img src="https://wakatime.com/share/@id5090261/waka_da7be946-f997-41b7-8f74-faccc1266ecb.svg" height="300px"></a> |                                                                                                                     |
+                                    
 
 </details>
 
