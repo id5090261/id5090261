@@ -69,6 +69,10 @@ ___
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
 
+| ⏰ Past month                                                                                                                                           | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" />                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@id5090261"><img src="https://wakatime.com/share/@id5090261/waka_da7be946-f997-41b7-8f74-faccc1266ecb.svg" height="300px"></a> | <a href="https://wakatime.com/@id5090261"><img src="https://wakatime.com/share/@id5090261/waka_da7be946-f997-41b7-8f74-faccc1266ecb.svg" height="300px"></a> |                                                                                                                     |
+
 </details>
 
 
