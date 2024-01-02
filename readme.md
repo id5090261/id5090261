@@ -59,6 +59,8 @@ ___
 <summary><b>Status</b></summary>
 <br>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=id5090261&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy&card_width=300" width=460 height=180>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id5090261&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
