@@ -67,7 +67,7 @@ ___
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
 
-                                    
+<figure><embed src="https://wakatime.com/share/@id5090261/627f23ec-c71d-491a-8ab8-944a2ad07ba6.svg"></embed></figure>
 
 </details>
 
