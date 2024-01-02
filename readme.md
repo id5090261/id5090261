@@ -65,7 +65,7 @@ ___
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=id5090261&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark)
+![Mohsen's GitHub stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=id5090261&show_icons=true&theme=vision-friendly-dark&card_width=300" width=460 height=180>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=id5090261&theme=darkhub)
 
