@@ -1,4 +1,4 @@
-A web developer and interested in learning more. Expertise in WINDOWS, LINUX, SERVER, GIT, HTML, CSS, BOOTSTRAP, JS, WORDPRESS and familiarity with PHP, REACT JS, TAILWIND, SCSS, ADOBE PHOTOSHOP, ADOBE XD.
+A web developer and interested in learning more. Expertise in WINDOWS, LINUX, SERVER, GIT, HTML, CSS, BOOTSTRAP, JS, WORDPRESS and familiarity with PHP, SQL, REACT JS, TAILWIND, SCSS, ADOBE PHOTOSHOP, ADOBE XD.
 
 
 [![gmail](https://img.shields.io/badge/id5090261-%23EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:id5090261@gmail.com)](mailto:id5090261@gmail.com)
